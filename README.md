@@ -72,3 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # Contributors on this project
 - Daniel Ian Kurniawan
 - Ida Bagus Gede Purwa Manik Adiputra
+- Zeta Shabrina Arifa
